@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pet", "pet\pet.csproj", "{6EF28CC3-D283-48F9-80CA-8959E50BC312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{AD378C53-FB8B-48C0-9FEA-067B5BF6BE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF28CC3-D283-48F9-80CA-8959E50BC312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF28CC3-D283-48F9-80CA-8959E50BC312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF28CC3-D283-48F9-80CA-8959E50BC312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF28CC3-D283-48F9-80CA-8959E50BC312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD378C53-FB8B-48C0-9FEA-067B5BF6BE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD378C53-FB8B-48C0-9FEA-067B5BF6BE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD378C53-FB8B-48C0-9FEA-067B5BF6BE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD378C53-FB8B-48C0-9FEA-067B5BF6BE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
